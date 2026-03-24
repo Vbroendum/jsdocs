@@ -803,7 +803,7 @@ exports.publish = function(taffyData, opts, tutorials) {
         }
     });
 
-    // TODO: move the tutorial functions to templateHelper.js
+    // TODO: move the tutorial functions to templateHelper.jssss
     function generateTutorial(title, tutorial, filename) {
         var tutorialData = {
             title: title,
