@@ -8,7 +8,12 @@
 function add(a, b) {
   return a + b;
 }
-
+/**
+ * Subtracts 2 numbers 
+ * @param {number} a - the first number
+ * @param {number} a - the second number
+ * @returns {number} the subracted sum of the numbers
+ * */
 function subtract(a, b) {
   return a - b;
 }
