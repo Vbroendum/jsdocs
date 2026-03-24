@@ -1,4 +1,3 @@
-
 /*global env: true */
 'use strict';
 
